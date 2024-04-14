@@ -1,5 +1,7 @@
 # 3005-Project
 
+Video: https://youtu.be/A63g1lgH2yM
+
 Repo Organization
 - Code (Python Code)
   - app.py
