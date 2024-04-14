@@ -1,6 +1,6 @@
 # 3005-Project
 
-Video: https://youtu.be/A63g1lgH2yM
+Video: https://youtu.be/O5p4Sh5GoGA
 
 Repo Organization
 - Code (Python Code)
@@ -14,7 +14,6 @@ Repo Organization
 Prerequisites 
 - Python3 downloaded
 - PostgreSQL database server
-- PostgreSQL JDBC Driver
 
 Setup
 - If need be "pip install psycopg2"
